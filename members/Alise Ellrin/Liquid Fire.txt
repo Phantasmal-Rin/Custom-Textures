@@ -1,0 +1,7 @@
+Submited by; Alise Ellrin
+
+Armor
+	Name; Liquid Fire
+	Lore; ?
+	Layer 1 name (chest,helmet,boots; liquidfire-1
+	Layer 2 name (pants); liquidfire-2
