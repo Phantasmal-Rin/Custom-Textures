@@ -1,0 +1,9 @@
+Staff or Member
+
+Staff;
+	Upload the picture files into the folder with a note file explaining who its from and what its name is
+	
+
+Member;
+	Create a folder with your mc-name ,Upload the picture (armor) files into the folder created with a note explaining who its from and what its name is.
+	
